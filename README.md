@@ -15,3 +15,6 @@
 * Your app will store every burger in a database, whether devoured or not.
 ![Image of DataBase](https://github.com/keefske2000/Burger/blob/master/public/assets/img/dataBase.jpg) <!-- .element height="50%" width="50%" -->
 
+**Here is how the App should be displayed on your device.**
+
+![Image of App](https://github.com/keefske2000/Burger/blob/master/public/assets/img/burgerImage.jpg)
