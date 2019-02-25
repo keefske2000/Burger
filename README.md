@@ -14,5 +14,5 @@
 
 * Your app will store every burger in a database, whether devoured or not.
 
-![Image of DataBase](https://keefske2000.github.com/burger/assets/img/dataBase.jpg)
+![Image of DataBase](https://keefske2000.github.com/Burger/public/assets/img/dataBase.jpg)
 
