@@ -13,8 +13,9 @@
 * Each burger in the waiting area also has a Devour it! button. When the user clicks it, the burger will move to the right side of the page.
 
 * Your app will store every burger in a database, whether devoured or not.
-![Image of DataBase](https://github.com/keefske2000/Burger/blob/master/public/assets/img/dataBase.jpg) <!-- .element height="50%" width="50%" -->
+![Image of DataBase](https://github.com/keefske2000/Burger/blob/master/public/assets/img/dataBase.jpg) <!-- .element height="25%" width="25%" -->
 
 **Here is how the App should be displayed on your device.**
 
 ![Image of App](https://github.com/keefske2000/Burger/blob/master/public/assets/img/burgerImage.jpg)
+<!-- .element height="25%" width="25%" -->
